@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">797876221649-sqnhv6m7v1so5gh8gc7buo05v5mngoit.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">797876221649</string>
+    <string name="google_api_key" translatable="false">AIzaSyBpHXEcOwEd_f1jCaLIsX2yOPF491-imak</string>
+    <string name="google_app_id" translatable="false">1:797876221649:android:d6e9dd07792ad66e3bb7f0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBpHXEcOwEd_f1jCaLIsX2yOPF491-imak</string>
+    <string name="google_storage_bucket" translatable="false">signage-meeting.appspot.com</string>
+    <string name="project_id" translatable="false">signage-meeting</string>
+</resources>

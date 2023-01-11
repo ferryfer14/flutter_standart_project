@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "797876221649",
+    "project_id": "signage-meeting",
+    "storage_bucket": "signage-meeting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797876221649:android:d6e9dd07792ad66e3bb7f0",
+        "android_client_info": {
+          "package_name": "com.monster.signageroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797876221649-vj3jkv5ar73bvpt8bbdaupruhth5l8a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monster.signageroom",
+            "certificate_hash": "6824379b49f9a2a3be87ed3e028f0f9515a0aa6b"
+          }
+        },
+        {
+          "client_id": "797876221649-sqnhv6m7v1so5gh8gc7buo05v5mngoit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHXEcOwEd_f1jCaLIsX2yOPF491-imak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797876221649-sqnhv6m7v1so5gh8gc7buo05v5mngoit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
